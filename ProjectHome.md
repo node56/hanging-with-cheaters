@@ -1,0 +1,1 @@
+Take all the fun out of hangman.
